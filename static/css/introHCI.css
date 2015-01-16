@@ -16,6 +16,9 @@ body {
      padding: 20px;
 }
 
+.container {
+}
+
 .jumbotron {
 	position: relative;
 	background: none;
@@ -31,4 +34,21 @@ body {
      right: 0;
      position: absolute;
      z-index: -1;	
+}
+
+.project {
+     margin-left: 15px;
+     background-color: #F5F5DC;
+     padding: 20px;
+     width:600px;
+}
+
+.contact-info {
+     font-size 10pt;
+     color: #cccccc;
+}
+
+.thumbnail {
+     padding: 20px;
+     font-size 30pt;
 }
